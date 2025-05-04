@@ -1,6 +1,5 @@
 function App() {
-  const x = 23;
-  return <div>World Wise</div>;
+  return <div>World Wise App</div>;
 }
 
 export default App;
